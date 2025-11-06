@@ -70,4 +70,9 @@
 
 <!-- YOLO Badge earned! 🎉 -->
 <!-- Pair Extraordinaire badge earned! 🤝 -->
+<<<<<<< HEAD
+<!-- Pull Shark PR #2 -->
+=======
 <!-- Pull Shark PR #1 -->
+>>>>>>> origin/main
+<!-- Pull Shark PR #5 -->
