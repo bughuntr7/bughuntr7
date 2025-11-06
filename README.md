@@ -66,4 +66,6 @@
 
 ---
 
-<p align="center"><em>“Code is best when it’s shared, improved, and re-imagined by the community.”</em></p>
+<p align="center"><em>"Code is best when it's shared, improved, and re-imagined by the community."</em></p>
+
+<!-- YOLO Badge earned! 🎉 -->
