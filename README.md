@@ -69,8 +69,8 @@
 <p align="center"><em>"Code is best when it's shared, improved, and re-imagined by the community."</em></p>
 
 <!-- GitHub Achievements Badges Earned! 🏆 -->
-<!-- YOLO Badge earned! 🎉 -->
 <!-- Pair Extraordinaire badge earned! 🤝 -->
 <!-- Quickdraw badge earned! 🎯 -->
 <!-- Heart On Your Sleeve badge earned! ❤️ -->
 <!-- Pull Shark badge earned! 🦈 -->
+<!-- Working towards YOLO badge - merge PR without review! 🚀 -->
