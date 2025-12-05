@@ -1,5 +1,5 @@
 <!-- Profile README: bughuntr7 -->
-<h1 align="center">Hey there 👋, I'm Bughuntr</h1>
+<h1 align="center">Hey there 👋, I'm David</h1>
 
 <p align="center">
   <em>Full-Stack Engineer • AI & ML Practitioner • Forecasting Enthusiast</em>
