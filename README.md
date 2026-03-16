@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Engineer • AI & ML Practitioner • Forecasting Enthusiast</em>
+  <em>AI & ML Engineer • Full-Stack Engineer • Forecasting Enthusiast</em>
 </p>
 
 ---
